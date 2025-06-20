@@ -5,7 +5,7 @@
 - 👀 I’m interested in a lot of stuff, but mostly interested in LLMs and other ML oriented projects and a bit of pentesting
 - 🌱 I’m currently learning ML/DL, Web3 Technologies with Solana, DSA and other tools in general programming aspect
   
- ###  📫 Reach out to me on <a href="https://www.instagram.com/kpiyushgupta/">Instagram </a> | <a href="https://www.linkedin.com/in/kumarpiyushgupta/">LinkedIn </a> | <a href="https://www.yequalsmxplusc.pages.dev">My Portfolio </a> | <a href="mailto:piyushguptaju@gmail.com"> Mail</a>
+ ###  📫 Reach out to me on <a href="https://www.instagram.com/kpiyushgupta/">Instagram </a> | <a href="https://www.linkedin.com/in/kumarpiyushgupta/">LinkedIn </a> | <a href="https://yequalsmxplusc.pages.dev">My Portfolio </a> | <a href="mailto:piyushguptaju@gmail.com"> Mail</a>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yequalsmxplusc&show_icons=true&locale=en&layout=compact" alt="yequalsmxplusc" /></p>
 
