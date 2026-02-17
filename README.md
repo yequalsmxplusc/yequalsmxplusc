@@ -1,4 +1,5 @@
-<h1 align="center">Piyush Gupta</h1>
+<h1 align="center">Hi there! I'm Piyush 👋</h1>
+<h3 align="center">Hit me up in case of opportunities /collaborate over projects if you're in need of: </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Engineer;Backend+Developer;Power+Engineer;Dockerized+Infrastructure;Database+Architecture" />
@@ -10,7 +11,7 @@
 
 ---
 
-## ⚙️ Stack
+## ⚙️ My Preferred Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts,react,nextjs,rust,angular,matlab,express,nodejs,mongodb,postgres,prisma,docker,linux,git" />
